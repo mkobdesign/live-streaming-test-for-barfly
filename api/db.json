@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My First Shirtless Stream",
+      "description": "it's the breast.",
+      "id": 1
+    },
+    {
+      "title": "Other STream",
+      "description": "shirts on boiys",
+      "id": 2
+    },
+    {
+      "title": "I made a new stream YOU GUYS!",
+      "description": "back to home i go",
+      "id": 3
+    }
+  ]
+}
